@@ -2,5 +2,6 @@
 CRUD ด้วย NODEJS, EXPRESS, MYSQL แบบมี Folder Structure ที่เป็นระบบ
 
 # วิธีใช้
-เปิด XAMPP ด้วย
-NPM INSTALL -> NPM RUN DEV
+เปิด XAMPP ด้วย__
+NPM INSTALL__
+NPM RUN DEV
